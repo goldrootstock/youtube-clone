@@ -9,7 +9,7 @@
     display: flex;
     align-items: center;
     border: 1px solid lightgray;
-    box-shadow: 4px 4px 6px -1px #2E1622;
+    box-shadow: 4px 4px 6px -1px #B3B3B3;    
     cursor: pointer;
     transition: transform 300ms ease-in;
 }
